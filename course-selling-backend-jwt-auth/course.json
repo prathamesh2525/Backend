@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Learn express",
+    "description": "Practice express and Learn",
+    "price": 4000,
+    "imageLink": "http://jsimage.com",
+    "courseId": 1,
+    "published": true
+  },
+  {
+    "title": "Learn mongodb",
+    "description": "Practice database and Learn",
+    "price": 4000,
+    "imageLink": "http://jsimage.com",
+    "courseId": 2,
+    "published": true
+  },
+  {
+    "title": "Learn nodejs updated",
+    "description": "Practice nodejs and Learn updated",
+    "price": 4000,
+    "imageLink": "http://jsimage.com",
+    "courseId": 3,
+    "published": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  { "email": "user2@gmail.com", "password": "8080", "purchasedCourses": [] },
+  {
+    "email": "user3@gmail.com",
+    "password": "8080",
+    "purchasedCourses": [
+      {
+        "title": "Learn express",
+        "description": "Practice express and Learn",
+        "price": 4000,
+        "imageLink": "http://jsimage.com",
+        "courseId": 1,
+        "published": true
+      }
+    ]
+  }
+]
