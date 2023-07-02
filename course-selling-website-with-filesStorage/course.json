@@ -1,0 +1,33 @@
+[
+  {
+    "title": "Learn MERN",
+    "description": "Practice MERN and Learn",
+    "price": 5050,
+    "imageLink": "http://unsplash.com",
+    "courseId": 1688222685972,
+    "published": true
+  },
+  {
+    "title": "Learn MEAN",
+    "description": "Practice MEAN and Learn",
+    "price": 4040,
+    "imageLink": "http://imagelink.com",
+    "courseId": 1688223339721,
+    "published": false
+  },
+  {
+    "title": "Learn JS updated",
+    "description": "Practice JS and Learn updated",
+    "price": 2000,
+    "imageLink": "http://jsImage.com",
+    "courseId": 1688235602636,
+    "published": true
+  },
+  {
+    "title": "Learn JS",
+    "description": "Practice js and Learn",
+    "price": 2000,
+    "imageLink": "http://jsimage.com",
+    "courseId": 1688275998319
+  }
+]

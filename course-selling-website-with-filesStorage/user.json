@@ -1,0 +1,25 @@
+[
+  {
+    "email": "user1@gmail.com",
+    "password": "9090",
+    "purchasedCourses": [
+      {
+        "title": "Learn JS updated",
+        "description": "Practice JS and Learn updated",
+        "price": 2000,
+        "imageLink": "http://jsImage.com",
+        "courseId": 1688235602636,
+        "published": true
+      },
+      {
+        "title": "Learn MERN",
+        "description": "Practice MERN and Learn",
+        "price": 5050,
+        "imageLink": "http://unsplash.com",
+        "courseId": 1688222685972,
+        "published": true
+      }
+    ]
+  },
+  { "email": "user2@gmail.com", "password": "8080", "purchasedCourses": [] }
+]
